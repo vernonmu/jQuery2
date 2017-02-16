@@ -1,5 +1,8 @@
-.main-wrapper {
-    height: 100vh;
+body {
+  background-color: #ccc;
+  margin:5%;
+  }.main-wrapper {
+    height: 95vh;
     width: 500px;
     overflow: scroll;
     background: url("../../img/big-bg.png")center no-repeat;
